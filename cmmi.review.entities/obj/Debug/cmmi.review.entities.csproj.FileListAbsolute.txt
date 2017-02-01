@@ -1,0 +1,4 @@
+D:\dev\no_vc\cmmi\cmmi.review.entities\bin\Debug\cmmi.review.entities.dll
+D:\dev\no_vc\cmmi\cmmi.review.entities\bin\Debug\cmmi.review.entities.pdb
+D:\dev\no_vc\cmmi\cmmi.review.entities\obj\Debug\cmmi.review.entities.dll
+D:\dev\no_vc\cmmi\cmmi.review.entities\obj\Debug\cmmi.review.entities.pdb
