@@ -1,0 +1,13 @@
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\cmmi.review.business.dll
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\cmmi.review.business.pdb
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\AutoMapper.dll
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\cmmi.review.data.dll
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\cmmi.review.entities.dll
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\EntityFramework.dll
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\cmmi.review.data.pdb
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\cmmi.review.entities.pdb
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\AutoMapper.xml
+D:\dev\no_vc\cmmi\cmmi.review.business\bin\Debug\EntityFramework.xml
+D:\dev\no_vc\cmmi\cmmi.review.business\obj\Debug\cmmi.review.business.csprojResolveAssemblyReference.cache
+D:\dev\no_vc\cmmi\cmmi.review.business\obj\Debug\cmmi.review.business.dll
+D:\dev\no_vc\cmmi\cmmi.review.business\obj\Debug\cmmi.review.business.pdb

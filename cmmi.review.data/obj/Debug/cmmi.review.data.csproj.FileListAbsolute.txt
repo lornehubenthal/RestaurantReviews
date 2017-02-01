@@ -1,0 +1,9 @@
+D:\dev\no_vc\cmmi\cmmi.review.data\bin\Debug\cmmi.review.data.dll.config
+D:\dev\no_vc\cmmi\cmmi.review.data\bin\Debug\cmmi.review.data.dll
+D:\dev\no_vc\cmmi\cmmi.review.data\bin\Debug\cmmi.review.data.pdb
+D:\dev\no_vc\cmmi\cmmi.review.data\bin\Debug\EntityFramework.dll
+D:\dev\no_vc\cmmi\cmmi.review.data\bin\Debug\EntityFramework.SqlServer.dll
+D:\dev\no_vc\cmmi\cmmi.review.data\bin\Debug\EntityFramework.xml
+D:\dev\no_vc\cmmi\cmmi.review.data\bin\Debug\EntityFramework.SqlServer.xml
+D:\dev\no_vc\cmmi\cmmi.review.data\obj\Debug\cmmi.review.data.dll
+D:\dev\no_vc\cmmi\cmmi.review.data\obj\Debug\cmmi.review.data.pdb
