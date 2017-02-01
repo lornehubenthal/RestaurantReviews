@@ -1,0 +1,9 @@
+D:\dev\no_vc\cmmi\cmmi.review.database\bin\Debug\cmmi.review.database.dacpac
+D:\dev\no_vc\cmmi\cmmi.review.database\obj\Debug\cmmi.review.database.dll
+D:\dev\no_vc\cmmi\cmmi.review.database\obj\Debug\cmmi.review.database.pdb
+D:\dev\no_vc\cmmi\cmmi.review.database\bin\Debug\cmmi.review.database.dll
+D:\dev\no_vc\cmmi\cmmi.review.database\bin\Debug\cmmi.review.database.pdb
+D:\dev\no_vc\cmmi\cmmi.review.database\obj\Debug\Model.xml
+D:\dev\no_vc\cmmi\cmmi.review.database\obj\Debug\refactor.xml
+D:\dev\no_vc\cmmi\cmmi.review.database\obj\Debug\postdeploy.sql
+D:\dev\no_vc\cmmi\cmmi.review.database\obj\Debug\predeploy.sql
